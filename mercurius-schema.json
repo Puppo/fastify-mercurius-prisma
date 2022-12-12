@@ -1,0 +1,4 @@
+[
+  "type Mutation {\n  add(x: Int!, y: Int!): Int!\n}",
+  "type Query {\n  Hello: String!\n}"
+]
